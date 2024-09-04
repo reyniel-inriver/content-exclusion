@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "7eTltKZKKrmHLyljEO+A52ij694yd+xunaE6cr9FSl3EDcJGYNj9C81Wh0iwRaUb2DXHPcjnZ1TvtajzJxuMqA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Remoting Test\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\inriver.remoting.ipmc\\8.9.0\\inriver.remoting.ipmc.8.9.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.private.servicemodel\\4.8.0\\system.private.servicemodel.4.8.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.reflection.dispatchproxy\\4.7.1\\system.reflection.dispatchproxy.4.7.1.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.security.cryptography.xml\\4.7.0\\system.security.cryptography.xml.4.7.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.servicemodel.http\\4.8.0\\system.servicemodel.http.4.8.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.servicemodel.primitives\\4.8.0\\system.servicemodel.primitives.4.8.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\reyniel.macero\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "iPMC.Remoting.TestConsoleApp depends on inRiver.Remoting.iPMC (>= 8.8.3) but inRiver.Remoting.iPMC 8.8.3 was not found. An approximate best match of inRiver.Remoting.iPMC 8.9.0 was resolved.",
+      "libraryId": "inRiver.Remoting.iPMC",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

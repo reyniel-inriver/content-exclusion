@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\Remoting Test\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\Remoting Test\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\Remoting Test\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp.csproj",
+        "projectName": "iPMC.Remoting.TestConsoleApp",
+        "projectPath": "C:\\dev\\Remoting Test\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\reyniel.macero\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\Remoting Test\\iPMC.Remoting.TestConsoleApp\\iPMC.Remoting.TestConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reyniel.macero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\reyniel.macero\\local-nuget-feed": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/inriver/_packaging/Autotest/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/inriver/_packaging/inRiver_NuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "inRiver.Remoting.iPMC": {
+              "target": "Package",
+              "version": "[8.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
